@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+  int ai;
+  for(at=0;ai<=255;ai++)
+  {
+    printf("%c",ai);
+  }
+  return 0;
+}
+  
